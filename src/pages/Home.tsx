@@ -73,8 +73,6 @@ const HomePage = (_props: Props) => {
     
   return (
     <div>
-        <div style={{margin: '10px auto'}} className="container">
-  <h1  className='btn btn-info w-100'>TANGLIKE.APP</h1> <br />
         <div style={{margin: '20px auto'}} className="container">
   <h2  className='btn btn-info w-100'>Bù bài thiếu like ( áp dụng vip like tháng )</h2> <br />
   <p className='btn btn-warning w-100'>Lưu ý: <br />
